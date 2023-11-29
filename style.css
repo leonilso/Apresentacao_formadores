@@ -1,0 +1,127 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    overflow: hidden;
+}
+.pagina{
+    height: 100vh;
+    text-align: center;
+    font-family: sans-serif;
+}
+
+.container_text{
+    background-color: rgb(186, 232, 255);
+    border-radius: 20px;
+    margin: 50px;
+    box-shadow: 5px 5px 5px rgba(90, 172, 212, 0.302);
+}
+
+a{
+    color: #fff;
+    text-decoration: none;
+    transition: 1s;
+    padding: 10px;
+    background-color: rgb(65, 65, 240);
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px rgb(45, 87, 108, 0.302);
+}
+
+a:hover{
+    transition: 1s;
+    padding: 15px;
+    background-color: rgb(80, 253, 91);
+    box-shadow: 5px 5px 5px rgba(45, 87, 108, 0.792);
+}
+
+img{
+    transition: 1s;
+    height: 200px;
+    margin: 5px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px rgb(45, 87, 108, 0.302);
+}
+
+img:hover{
+    height: 250px;
+    box-shadow: 5px 5px 5px rgba(45, 87, 108, 0.792);
+}
+
+h1{
+    font-size: 40px;
+    padding: 20px;
+    border-bottom: 1px solid #131111;
+}
+p{
+    padding: 20px;
+}
+li{
+    list-style: none;
+    padding: 20px;
+}
+
+.div_imagens{
+    display: flex;
+}
+
+.botoes{
+    width: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.botoes2{
+    margin: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#botao{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100px;
+}
+
+
+
+#slide1{
+    background: linear-gradient(to bottom, #60f989, #ffea00);
+}
+#slide2{
+    background: linear-gradient(to bottom, #60f989, #ffea00);
+}
+#slide3{
+    background: linear-gradient(to bottom, #60f989, #ffea00);
+}
+#slide4{
+    background: linear-gradient(to bottom, #60f989, #ffea00);
+}
+#slide5{
+    background: linear-gradient(to bottom, #60f989, #ffea00);
+}
+#slide6{
+    background: linear-gradient(to bottom, #60f989, #ffea00);
+}
+#slide7{
+    background: linear-gradient(to bottom, #60f989, #ffea00);
+}
+#slide8{
+    background: linear-gradient(to bottom, #60f989, #ffea00);
+}
+#slide9{
+    background: linear-gradient(to bottom, #60f989, #ffea00);
+}
+#slide10{
+    background: linear-gradient(to bottom, #60f989, #ffea00);
+}
+#slide11{
+    background: linear-gradient(to bottom, #60f989, #ffea00);
+}
+#slide12{
+    background: linear-gradient(to bottom, #60f989, #ffea00);
+}
+
